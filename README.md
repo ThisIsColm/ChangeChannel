@@ -37,8 +37,13 @@ FFmpeg / FFprobe
 PyInstaller (for macOS packaging)
 
 📦 Download
-Releases
+[Releases]([url](https://mega.nz/file/TN403IqB#Pul-tnZw_4YdVdbNCazDx9Flu3bjd2fcOxaP83B4a1k))
 Prebuilt .app available (signed + zipped)
+
+### FFmpeg Licensing
+
+This app uses [FFmpeg](https://ffmpeg.org), a free and open-source multimedia framework, under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).  
+The FFmpeg binaries are included for convenience. You can obtain the source code and learn more at [https://ffmpeg.org](https://ffmpeg.org).
 
 🧠 Created By
 Colm Moore @thisiscolm www.colmmoore.com
