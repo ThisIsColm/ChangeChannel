@@ -38,7 +38,6 @@ PyInstaller (for macOS packaging)
 
 📦 Download
 [Releases]([url](https://mega.nz/file/TN403IqB#Pul-tnZw_4YdVdbNCazDx9Flu3bjd2fcOxaP83B4a1k))
-Prebuilt .app available (signed + zipped)
 
 ### FFmpeg Licensing
 
