@@ -43,7 +43,7 @@ PyInstaller (for macOS packaging)
 This app uses [FFmpeg](https://ffmpeg.org), a free and open-source multimedia framework, under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).  
 The FFmpeg binaries are included for convenience. You can obtain the source code and learn more at [https://ffmpeg.org](https://ffmpeg.org).
 
-✅ [>> DOWNLOAD HERE <<](https://mega.nz/folder/XUYWEDwT#7CA1Md-IBPuqah05PJ0Kiw)
+✅ [>> DOWNLOAD HERE <<](https://github.com/ThisIsColm/ProxyMate/releases/tag/V1)
 
 🧠 Created By
 Colm Moore @thisiscolm www.colmmoore.com
