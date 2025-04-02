@@ -18,7 +18,7 @@ Drag-and-drop UI
 
 Native macOS .app (bundled with FFmpeg)
 
-Custom audio channel control (1–10 channels)
+Custom audio channel control (1–8 channels)
 
 Live FFmpeg console output
 
