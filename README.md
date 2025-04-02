@@ -1,9 +1,10 @@
-![ChatGPT Image Mar 29, 2025, 05_49_27 PM](https://github.com/user-attachments/assets/9093d167-aa41-463c-b344-0ec62e4876e7)
+<img width="1407" alt="ProxyMate" src="https://github.com/user-attachments/assets/f2667043-03ac-4183-bcf5-e33f537e7078" />
 
 📺 Change Channel — Batch Fix Audio Channels in Video Proxies
 A minimal, native macOS app that batch-converts .mp4 and .mov files to have the correct number of audio channels — perfect for fixing proxy relinking issues in Adobe Premiere Pro.
 
 🔧 Why This Exists
+
 Premiere Pro throws errors when trying to relink proxy files that were created with the wrong number of audio channels. This tool solves that problem by letting you:
 
 🎯 Choose a target number of audio channels (e.g. 2, 6, 8)
