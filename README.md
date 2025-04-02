@@ -1,6 +1,6 @@
 <img width="1407" alt="ProxyMate" src="https://github.com/user-attachments/assets/f2667043-03ac-4183-bcf5-e33f537e7078" />
 
-📺 Change Channel — Batch Fix Audio Channels in Video Proxies
+📺 ProxyMate — Batch Fix Audio Channels in Video Proxies
 A minimal, native macOS app that batch-converts .mp4 and .mov files to have the correct number of audio channels — perfect for fixing proxy relinking issues in Adobe Premiere Pro.
 
 🔧 Why This Exists
@@ -37,8 +37,6 @@ FFmpeg / FFprobe
 
 PyInstaller (for macOS packaging)
 
-📦 [Download](https://mega.nz/file/TN403IqB#Pul-tnZw_4YdVdbNCazDx9Flu3bjd2fcOxaP83B4a1k)
-
 ### FFmpeg Licensing
 
 This app uses [FFmpeg](https://ffmpeg.org), a free and open-source multimedia framework, under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).  
@@ -46,4 +44,6 @@ The FFmpeg binaries are included for convenience. You can obtain the source code
 
 🧠 Created By
 Colm Moore @thisiscolm www.colmmoore.com
+
+🍺 [Buy me a beer if you found this useful](https://buymeacoffee.com/thisiscolm)
 
